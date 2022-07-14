@@ -1,0 +1,21 @@
+{
+    "dependencies":{},
+    "hidden":false,    
+    "autoDownload":true,
+    "relatesTo":[],    
+    "dependsOn":[],
+    "dependsTo":[],
+    "releaseNote":"",
+    "tplPath":"",
+    "parentFolder":"",
+    "appFolder":"",
+    "name":"测试横屏",
+    "identifier":"com.midea.zhang.demo1",
+    "localPath":"",
+    "action":"",
+    "index":"index.html",
+    "build":18,
+    "isPcTest":0,
+    "isDebug":0,
+    "version":"1.0.18"
+}
